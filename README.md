@@ -2,6 +2,8 @@
 
 This repository includes MATLAB codes used for CSRS 2018.
 
+EKF and Smoothing-based UAV Positioning Using UWB and IMU Fusion
+
 The codes are for  the implementation of EKF for UAV localization using UWB and IMU.
 
 The codes were tested on MATLAB R2015a.
